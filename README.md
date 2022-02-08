@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alexdevdavis
-- 👀 I’m interested in C# .NET development
+- 👀 I’m interested in web development with HTML,CSS, JS and C#.NET
 - 🌱 I’m currently learning the ropes
 - 💞️ I’m looking to collaborate on beginner-friendly projects
 - 📫 How to reach me: alexdevdavis@gmail.com
