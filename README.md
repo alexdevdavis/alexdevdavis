@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alexdevdavis
 - 👀 I’m interested in web development with HTML,CSS, JS and C#.NET
-- 🌱 I’m currently learning the ropes
-- 💞️ I’m looking to collaborate on beginner-friendly projects
+- 🌱 I’m presently a bootcamp student
+- 💞️ I’m looking for opportunities to join peojects
 - 📫 How to reach me: alexdevdavis@gmail.com
 
 <!---
