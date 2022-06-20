@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @alexdevdavis
-- 👀 I’m interested in web development with HTML,CSS, JS and C#.NET
-- 🌱 I’m presently a bootcamp student
-- 💞️ I’m looking for opportunities to join projects
+## Greetings
+- 👋 Hi, I’m Alex
+- 🌱 I’m a Northcoders bootcamper, learning fullstack development
 - 📫 How to reach me: alexdevdavis@gmail.com
 
-<!---
-alexdevdavis/alexdevdavis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Projects
+### Back-end Project: be-nc-games
+- Node.js
+- Express
+- PostgreSQL
+
+### Front-end Project: ad-games
+- React
+- CSS
