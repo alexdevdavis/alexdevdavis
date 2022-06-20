@@ -1,6 +1,6 @@
 ## Greetings
 - 👋 Hi, I’m Alex
-- 🌱 I’m a Northcoders bootcamper, learning fullstack development
+- 🌱 I’m a Northcoders bootcamper, learning full-stack development
 - 📫 How to reach me: alexdevdavis@gmail.com
 
 ## Projects
