@@ -4,7 +4,7 @@
 - 📫 How to reach me: alexdevdavis@gmail.com
 
 ## Projects
-### Back-end Project: [be-nc-games](https://github.com/alexdevdavis/nc-games)
+### Back-end Project: [be-nc-games](https://github.com/alexdevdavis/be-nc-games)
 - Node.js
 - Express
 - PostgreSQL
