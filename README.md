@@ -1,4 +1,4 @@
 ## Greetings
 - 👋 Hi, I’m Alex
-- 🌱 I’m a Junior Software Engineer and Mentor
+- 🌱 Software Engineer
 - 📫 How to reach me: alexdevdavis@gmail.com
