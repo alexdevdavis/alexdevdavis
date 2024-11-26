@@ -1,4 +1,4 @@
 ## Greetings
 - 👋 Hi, I’m Alex
-- 🌱 Software Engineer
-- 📫 How to reach me: alexdevdavis@gmail.com
+- 🌱 Software Developer
+- 📫 How to reach me: alex@adevd.com
